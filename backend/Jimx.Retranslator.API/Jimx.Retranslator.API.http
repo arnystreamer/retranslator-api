@@ -1,0 +1,6 @@
+@Jimx.Retranslator.API_HostAddress = http://localhost:5182
+
+GET {{Jimx.Retranslator.API_HostAddress}}/ping
+Accept: application/json
+
+###

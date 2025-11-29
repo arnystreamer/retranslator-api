@@ -1,1 +1,1 @@
-# retranslator-api
+# Jimx.Retranslator
