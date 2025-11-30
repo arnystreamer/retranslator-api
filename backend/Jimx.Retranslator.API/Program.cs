@@ -11,4 +11,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.MapGet("/ping", () => Results.Ok("pong"));
+
 app.Run();
